@@ -1,0 +1,25 @@
+{
+  "name": "lodate",
+  "version": "0.3.0",
+  "description": "date utility functions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niklus/lodate.git"
+  },
+  "keywords": [
+    "date",
+    "date-utilities",
+    "date-helpers"
+  ],
+  "author": "Nicholas Otieno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Niklus/lodate/issues"
+  },
+  "homepage": "https://github.com/Niklus/lodate#readme"
+}
