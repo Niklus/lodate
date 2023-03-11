@@ -1,6 +1,10 @@
 # lodate
 
-Date utility functions for common date operations
+Date utility functions for common date operations.
+
+Lodate is a pure ESM package.
+
+## Install
 
 ```bash
 npm install lodate
@@ -18,7 +22,7 @@ console.log(monthName)
 
 const dayOfYear = date.dayOfYear(new Date())
 
-console.log(dayOfYear)
+console.log(dayOfYear) 
 ```
 You can select a specific function
 

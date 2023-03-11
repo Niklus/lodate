@@ -1,6 +1,6 @@
 {
   "name": "lodate",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "date utility functions",
   "main": "index.js",
   "type": "module",
